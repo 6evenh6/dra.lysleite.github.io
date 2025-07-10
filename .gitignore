@@ -1,0 +1,23 @@
+# Node.js (caso use futuramente para build ou deploy)
+node_modules/
+dist/
+.env
+
+# Sistemas operacionais
+.DS_Store
+Thumbs.db
+
+# IDEs e editores
+.vscode/
+.idea/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+
+# GitHub Pages (caso use build com output separado)
+build/
