@@ -2,6 +2,7 @@
 node_modules/
 dist/
 .env
+.vs/
 
 # Sistemas operacionais
 .DS_Store
